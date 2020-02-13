@@ -1,0 +1,5 @@
+com/baeldung/petstore/app/PetService.class
+com/baeldung/petstore/app/DefaultPetService.class
+com/baeldung/petstore/app/PetStoreIntegrationConfig.class
+com/baeldung/petstore/app/PetStoreApplication.class
+com/baeldung/petstore/app/PetController.class
